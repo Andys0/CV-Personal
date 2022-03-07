@@ -1,0 +1,52 @@
+body{
+    background-color: #F6DDCC;
+    width: 90%;
+    margin: 50px auto 50px auto;
+}
+h1{
+    text-align:center;
+    font-style: italic;
+}
+
+img{
+    border-radius: 50%;
+    border-style: double;
+    border-color: crimson;
+    float:right;
+}
+
+nav{
+    text-align: center;
+}
+
+div{
+    background-color: salmon;
+    display: inline-block;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    margin: 50px 50px 50px 50px;
+    border-radius: 7px;
+}
+
+article{
+    width: 70%;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
+
+aside{
+    display: inline-block;
+    width: 25%;
+    padding: 10px;
+    min-height: 10px;
+    float: right;
+    background-color: lightcoral;
+    
+}
+
+footer{
+    height: 10px;
+    float:left;
+}
